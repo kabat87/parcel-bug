@@ -1,0 +1,12 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "module": "build/index.module.js",
+  "scripts": {
+    "build": "parcel build ./api.js"
+  },
+  "dependencies": {
+    "parcel": "^2.0.0-nightly.632",
+    "three": "^0.127.0"
+  }
+}

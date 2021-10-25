@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "parcel": "^2.0.0-nightly.632",
-    "three": "^0.127.0"
+    "three": "^0.133.1"
   }
 }
